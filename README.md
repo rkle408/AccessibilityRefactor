@@ -5,7 +5,7 @@ While the existing code works to launch a functioning website, it's code had err
 
 By improving the code, it'll allow more widespread accessibility, especially people with disabilities. By changing HTML tags, it will also allow the website to be more easily found via search engines. Additionally, increasing the font size makes it easier to read.
 
-In refactoring the code, it is made obvious how changing simple codes and adding "invisible" text can improve a website's functionality and reachability, and that spending a few extra minutes can really make others' lives easier.
+In refactoring the code, it is made obvious how changing simple codes and adding "invisible" text can improve a website's functionality and visibility, and that spending a few extra minutes can really make others' lives easier.
 
 Link to deployed website:
 [Deploy](https://rkle408.github.io/AccessibilityRefactor/)
