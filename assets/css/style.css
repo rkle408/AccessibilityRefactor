@@ -144,6 +144,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Edit from h2 to h4 since changed in HTML code */
+.footer h4 {
     font-size: 20px;
 }
