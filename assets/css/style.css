@@ -32,13 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header section ul {
-    list-style-type: none;
-}
-
+/* Consolidated 'ul' with this section */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
@@ -49,8 +47,7 @@ a {
 p {
     font-size: 20px;
 }
-/*Increased font size for better readibility
-*/
+/*Increased font size for better readibility */
 
 .hero {
     height: 800px;
